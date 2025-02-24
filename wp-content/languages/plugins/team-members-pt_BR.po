@@ -1,0 +1,360 @@
+# Translation of Plugins - Team Members - Development (trunk) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Team Members - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-02 21:46:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Team Members - Development (trunk)\n"
+
+#: inc/tmm-metaboxes-members.php:15
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/tmm-metaboxes-settings.php:183
+msgid "Fonts to use"
+msgstr "Fonte para usar"
+
+#: inc/tmm-metaboxes-settings.php:151
+msgid "Photo link behavior"
+msgstr "Comportamento do link de foto"
+
+#. translators: General settings
+#: inc/tmm-metaboxes-settings.php:131
+msgid "General"
+msgstr "Geral"
+
+#: inc/tmm-metaboxes-settings.php:63
+msgid "5 per line"
+msgstr "5 por linha"
+
+#: inc/tmm-metaboxes-settings.php:62
+msgid "4 per line"
+msgstr "4 por linha"
+
+#: inc/tmm-metaboxes-settings.php:61
+msgid "3 per line"
+msgstr "3 por linha"
+
+#: inc/tmm-metaboxes-settings.php:60
+msgid "2 per line"
+msgstr "2 por linha"
+
+#: inc/tmm-metaboxes-settings.php:59
+msgid "1 per line"
+msgstr "1 por linha"
+
+#: inc/tmm-metaboxes-settings.php:46
+msgid "Center"
+msgstr "Centralizado"
+
+#: inc/tmm-metaboxes-settings.php:19
+msgid "Same window"
+msgstr "Mesma janela"
+
+#: inc/tmm-metaboxes-settings.php:18
+msgid "New window"
+msgstr "Nova janela"
+
+#: inc/tmm-metaboxes-members.php:586
+msgid "Add a member"
+msgstr "Adicionar um membro"
+
+#: inc/tmm-metaboxes-members.php:237 inc/tmm-metaboxes-members.php:265
+#: inc/tmm-metaboxes-members.php:474 inc/tmm-metaboxes-members.php:499
+msgid "e.g. Facebook page"
+msgstr "Ex: Página do Facebook"
+
+#: inc/tmm-metaboxes-members.php:345 inc/tmm-metaboxes-members.php:567
+msgid "e.g. http://your-site.com/full-member-page/"
+msgstr "Ex: http://seu-site.com.br/pagina-do-membro/"
+
+#: inc/tmm-metaboxes-members.php:341 inc/tmm-metaboxes-members.php:564
+msgid "Your visitors will be redirected to this link if they click the member's photo."
+msgstr "Seus visitantes serão redirecionados para este link se clicarem na foto do membro."
+
+#: inc/tmm-metaboxes-members.php:339 inc/tmm-metaboxes-members.php:562
+msgid "Photo link"
+msgstr "Link da foto"
+
+#: inc/tmm-metaboxes-members.php:315 inc/tmm-metaboxes-members.php:540
+msgid "Photo"
+msgstr "Foto"
+
+#: inc/tmm-metaboxes-members.php:305 inc/tmm-metaboxes-members.php:534
+msgid "Your member's email address must be entered in the Link URL field. Title attribute can be left blank."
+msgstr "O endereço de e-mail do membro deve ser inserido no campo de URL do link. O atributo de título pode ser deixado em branco."
+
+#: inc/tmm-metaboxes-members.php:296 inc/tmm-metaboxes-members.php:526
+msgid "e.g. http://gp.com/member-profile"
+msgstr "ex: http://gp.com/perfil-do-membro"
+
+#: inc/tmm-metaboxes-members.php:290 inc/tmm-metaboxes-members.php:521
+msgid "e.g. Google+ page"
+msgstr "Ex: Página do Google+"
+
+#: inc/tmm-metaboxes-members.php:246 inc/tmm-metaboxes-members.php:271
+#: inc/tmm-metaboxes-members.php:482 inc/tmm-metaboxes-members.php:504
+msgid "e.g. http://fb.com/member-profile"
+msgstr "Ex: http://fb.com/perfil-do-membro"
+
+#: inc/tmm-metaboxes-members.php:242 inc/tmm-metaboxes-members.php:479
+msgid "Link URL"
+msgstr "URL do Link"
+
+#: inc/tmm-metaboxes-members.php:233 inc/tmm-metaboxes-members.php:471
+msgid "Optional. This is the HTML <a> tag's title attribute."
+msgstr "Opcional. Este é o atributo de título da tag HTML <a>."
+
+#: inc/tmm-metaboxes-members.php:217 inc/tmm-metaboxes-members.php:455
+msgid "Link type"
+msgstr "Tipo de link"
+
+#: inc/tmm-metaboxes-members.php:212 inc/tmm-metaboxes-members.php:448
+msgid "These links will appear below your members' biography."
+msgstr "Esses links aparecerão abaixo da descrição de seus membros."
+
+#: inc/tmm-metaboxes-members.php:210 inc/tmm-metaboxes-members.php:446
+msgid "Social links"
+msgstr "Links sociais"
+
+#: inc/tmm-metaboxes-members.php:201 inc/tmm-metaboxes-members.php:437
+msgid "Edit biography"
+msgstr "Editar biografia"
+
+#: inc/tmm-metaboxes-members.php:177 inc/tmm-metaboxes-members.php:417
+msgid "Edit your member's biography by clicking the button below. Once updated, it will show up here."
+msgstr "Edite a descrição do membro clicando no botão abaixo. Assim que for atualizado, ele será exibido aqui."
+
+#: inc/tmm-metaboxes-members.php:175 inc/tmm-metaboxes-members.php:187
+#: inc/tmm-metaboxes-members.php:415 inc/tmm-metaboxes-members.php:425
+msgid "Description/biography"
+msgstr "Descrição/biografia"
+
+#: inc/tmm-metaboxes-members.php:167 inc/tmm-metaboxes-members.php:407
+msgid "e.g. Project manager"
+msgstr "Ex: Gerente de projetos"
+
+#: inc/tmm-metaboxes-members.php:158 inc/tmm-metaboxes-members.php:399
+msgid "e.g. Doe"
+msgstr "Ex: de Tal"
+
+#: inc/tmm-metaboxes-members.php:149 inc/tmm-metaboxes-members.php:391
+msgid "e.g. John"
+msgstr "Ex: Fulando"
+
+#: inc/tmm-metaboxes-members.php:132 inc/tmm-metaboxes-members.php:375
+msgid "Clone"
+msgstr "Clone"
+
+#: inc/tmm-metaboxes-members.php:100
+msgid "Instant preview"
+msgstr "Prévia instantânea"
+
+#: inc/tmm-metaboxes-members.php:98
+msgid "Collapse all"
+msgstr "Recolher todos"
+
+#: inc/tmm-metaboxes-members.php:95
+msgid "Expand all"
+msgstr "Expandir todos"
+
+#: inc/tmm-metaboxes-members.php:85
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: inc/tmm-metaboxes-members.php:72
+msgid "Close preview"
+msgstr "Fechar prévia"
+
+#: inc/tmm-metaboxes-members.php:19
+msgid "Research Gate"
+msgstr "Portão de pesquisa"
+
+#: inc/tmm-metaboxes-members.php:18
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/tmm-metaboxes-members.php:17
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/tmm-metaboxes-members.php:16
+msgid "VK"
+msgstr "VK"
+
+#: inc/tmm-metaboxes-members.php:14
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/tmm-metaboxes-members.php:10
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/tmm-metaboxes-members.php:9
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/tmm-metaboxes-members.php:7
+msgid "-"
+msgstr "-"
+
+#: inc/tmm-admin-scripts.php:25
+msgid "This is only a preview, shortcodes used in the fields will not be rendered and results may vary depending on your container's width."
+msgstr "Essa é apenas uma prévia, os shortcodes usados nos campos não serão renderizados e os resultados podem variar dependendo da largura do seu contêiner."
+
+#: inc/tmm-admin-scripts.php:24
+msgid "Add at least <strong>1</strong> member to preview the team."
+msgstr "Adicione pelo menos <strong>1</strong> membro para visualizar a equipe."
+
+#: inc/tmm-admin-scripts.php:23 inc/tmm-save-metaboxes.php:77
+msgid "Untitled"
+msgstr "Sem título"
+
+#. Author URI of the plugin
+#: tmm.php
+msgid "https://wpdarko.com"
+msgstr "https://wpdarko.com"
+
+#. Author of the plugin
+#: tmm.php
+msgid "WP Darko"
+msgstr "WP Darko"
+
+#. Plugin URI of the plugin
+#: tmm.php
+msgid "https://wpdarko.com/team-members"
+msgstr "https://wpdarko.com/team-members"
+
+#. Plugin Name of the plugin
+#: tmm.php
+msgid "Team Members"
+msgstr "Team Members"
+
+#: inc/tmm-post-type.php:57
+msgid "Team draft updated."
+msgstr "Rascunho da equipe atualizado."
+
+#: inc/tmm-post-type.php:56
+msgid "Team saved."
+msgstr "Equipe salva."
+
+#: inc/tmm-post-type.php:55
+msgid "Team published."
+msgstr "Equipe publicada."
+
+#: inc/tmm-post-type.php:53 inc/tmm-post-type.php:54
+msgid "Team updated."
+msgstr "Equipe atualizada."
+
+#: inc/tmm-post-type.php:22
+msgid "No Teams found in Trash."
+msgstr "Nenhuma equipe foi encontrada na lixeira."
+
+#: inc/tmm-post-type.php:21
+msgid "No Teams found."
+msgstr "Nenhuma equipe foi encontrada."
+
+#: inc/tmm-post-type.php:20
+msgid "Search Teams"
+msgstr "Pesquisar equipes"
+
+#: inc/tmm-post-type.php:19
+msgid "All Teams"
+msgstr "Todas as equipes"
+
+#: inc/tmm-post-type.php:18
+msgid "View Team"
+msgstr "Ver equipe"
+
+#: inc/tmm-post-type.php:17
+msgid "Edit Team"
+msgstr "Editar equipe"
+
+#: inc/tmm-post-type.php:16
+msgid "New Team"
+msgstr "Nova equipe"
+
+#: inc/tmm-post-type.php:15
+msgid "Add New Team"
+msgstr "Adicionar nova equipe"
+
+#: inc/tmm-post-type.php:14
+msgid "Add New"
+msgstr "Adicionar novo"
+
+#: inc/tmm-post-type.php:11 inc/tmm-post-type.php:13
+msgid "Team"
+msgstr "Time"
+
+#: inc/tmm-post-type.php:10 inc/tmm-post-type.php:12
+msgid "Teams"
+msgstr "Equipes"
+
+#: inc/tmm-metaboxes-settings.php:49
+msgid "Justify"
+msgstr "Justificado"
+
+#: inc/tmm-metaboxes-settings.php:48
+msgid "Right"
+msgstr "Direita"
+
+#: inc/tmm-metaboxes-settings.php:47
+msgid "Left"
+msgstr "Esquerda"
+
+#: inc/tmm-metaboxes-settings.php:137
+msgid "Members per line"
+msgstr "Membros por linha"
+
+#: inc/tmm-metaboxes-settings.php:197
+msgid "Main color"
+msgstr "Cor principal"
+
+#: inc/tmm-metaboxes-members.php:331 inc/tmm-metaboxes-members.php:554
+msgid "Upload photo"
+msgstr "Enviar foto"
+
+#: inc/tmm-metaboxes-members.php:321 inc/tmm-metaboxes-members.php:546
+msgid "Member's photo"
+msgstr "Foto do membro"
+
+#: inc/tmm-metaboxes-members.php:231 inc/tmm-metaboxes-members.php:469
+msgid "Title attribute"
+msgstr "Atributo do título"
+
+#: inc/tmm-metaboxes-members.php:23
+msgid "Other links"
+msgstr "Outros links"
+
+#: inc/tmm-metaboxes-members.php:21
+msgid "Website"
+msgstr "Site"
+
+#: inc/tmm-metaboxes-members.php:20
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/tmm-metaboxes-members.php:163 inc/tmm-metaboxes-members.php:404
+msgid "Job/role"
+msgstr "Cargo/função"
+
+#: inc/tmm-metaboxes-members.php:154 inc/tmm-metaboxes-members.php:396
+msgid "Lastname"
+msgstr "Sobrenome"
+
+#: inc/tmm-metaboxes-members.php:145 inc/tmm-metaboxes-members.php:388
+msgid "First name"
+msgstr "Nome"
+
+#: inc/tmm-metaboxes-members.php:140 inc/tmm-metaboxes-members.php:383
+msgid "Member details"
+msgstr "Detalhes do membro"
+
+#: inc/tmm-metaboxes-settings.php:35
+msgid "Default"
+msgstr "Default"

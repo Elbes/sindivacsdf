@@ -1,0 +1,1135 @@
+********************************************************************************
+* DUPLICATOR LITE: Install-Log
+* STEP-0 START @ 06:48:19
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Linux                                 |WINNT
+PHP VERSION_________: 8.2.22                                |8.0.30
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 8.0.30 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30
+DOC ROOT____________: "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+REQUEST URL_________: "http://localhost/sindivacs"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[blogname]
+********************************************************************************
+MAINTENANCE MODE DISABLE
+INSTALLER INFO
+
+TEMPLATE____________: "base"
+SECURE MODE_________: "none"
+URL PLUGINS_________: https://sindivacs.com.br/wp-content/plugins
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+URL_NEW_____________: "http://localhost/sindivacs"
+********************************************************************************
+ARCHIVE INFO
+
+ARCHIVE NAME________: "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs/20250203_sindicatodosagentesdevigila_[HASH]_20250224134859_archive.zip"
+ARCHIVE SIZE________: 738.94MB
+CREATED_____________: 2025-02-24 13:48:59
+WP VERSION__________: 6.7.2
+DUP VERSION_________: 1.5.11.2
+LICENSE_____________: Free version
+DB VERSION__________: 5.7.23
+DB FILE SIZE________: 31.89MB
+DB TABLES___________: 59
+DB ROWS_____________: 22805
+URL HOME____________: https://sindivacs.com.br
+URL CORE____________: https://sindivacs.com.br
+URL CONTENT_________: https://sindivacs.com.br/wp-content
+URL UPLOAD__________: https://sindivacs.com.br/wp-content/uploads
+URL PLUGINS_________: https://sindivacs.com.br/wp-content/plugins
+URL MU PLUGINS______: https://sindivacs.com.br/wp-content/mu-plugins
+URL THEMES__________: https://sindivacs.com.br/wp-content/themes
+PATH HOME___________: /home3/sindiv53/public_html
+PATH ABS____________: /home3/sindiv53/public_html
+PATH WPCONFIG_______: /home3/sindiv53/public_html
+PATH WPCONTENT______: /home3/sindiv53/public_html/wp-content
+PATH UPLOADS________: /home3/sindiv53/public_html/wp-content/uploads
+PATH PLUGINS________: /home3/sindiv53/public_html/wp-content/plugins
+PATH MUPLUGINS______: /home3/sindiv53/public_html/wp-content/mu-plugins
+PATH THEMES_________: /home3/sindiv53/public_html/wp-content/themes
+
+SUBSITES
+SUBSITE [ID:   1] "sindivacs.com.br/"
+
+PLUGINS
+PLUGIN [SLUG:akismet/akismet.php                               ][ON:true ]  Akismet Anti-spam: Spam Protection
+PLUGIN [SLUG:all-in-one-seo-pack/all_in_one_seo_pack.php       ][ON:false]  All in One SEO
+PLUGIN [SLUG:duplicator/duplicator.php                         ][ON:true ]  Duplicator
+PLUGIN [SLUG:elementor/elementor.php                           ][ON:true ]  Elementor
+PLUGIN [SLUG:essential-addons-for-elementor-lite/essential_adons_elementor.php][ON:true ]  Essential Addons for Elementor
+PLUGIN [SLUG:everest-forms/everest-forms.php                   ][ON:true ]  Everest Forms
+PLUGIN [SLUG:google-analytics-for-wordpress/googleanalytics.php][ON:true ]  Google Analytics for WordPress by MonsterInsights
+PLUGIN [SLUG:image-optimization/image-optimization.php         ][ON:true ]  Image Optimizer - Compress, Resize and Optimize Images
+PLUGIN [SLUG:magazine-blocks/magazine-blocks.php               ][ON:true ]  Magazine Blocks
+PLUGIN [SLUG:regenerate-thumbnails/regenerate-thumbnails.php   ][ON:true ]  Regenerate Thumbnails
+PLUGIN [SLUG:reviews-feed/sb-reviews.php                       ][ON:false]  Reviews Feed
+PLUGIN [SLUG:rss-importer/rss-importer.php                     ][ON:true ]  RSS Importer
+PLUGIN [SLUG:smart-smtp/smart-smtp.php                         ][ON:false]  SmartSMTP
+PLUGIN [SLUG:instagram-feed/instagram-feed.php                 ][ON:true ]  Smash Balloon Instagram Feed
+PLUGIN [SLUG:team-members/tmm.php                              ][ON:true ]  Team Members
+PLUGIN [SLUG:templately/templately.php                         ][ON:true ]  Templately
+PLUGIN [SLUG:widget-options/plugin.php                         ][ON:true ]  Widget Options
+PLUGIN [SLUG:wordpress-importer/wordpress-importer.php         ][ON:true ]  WordPress Importer
+PLUGIN [SLUG:wp-fastest-cache/wpFastestCache.php               ][ON:true ]  WP Fastest Cache
+PLUGIN [SLUG:wpforms-lite/wpforms.php                          ][ON:false]  WPForms Lite
+
+********************************************************************************
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\ctrls\ctrl.base.php:227][DELTA:   3.14109]  MESSAGE:END RENDER PAGE
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+STEP ACTION: "on-validate"
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\ctrls\ctrl.base.php:227][DELTA:   2.90002]  MESSAGE:END RENDER PAGE
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00047]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Overwrite Install" RESULT: skip
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual extraction detected" RESULT: soft warning
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00099]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Package Size" [CLASS: DUPX_Validation_test_package_size]
+LOG-TIME[DELTA:   0.00024]  MESSAGE:TEST "Package Size" RESULT: soft warning
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00017]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00010]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+--------------------------------------
+LOG-TIME[DELTA:  14.20634]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00128]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00017]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Version Mismatch" RESULT: good
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Tokenizer" [CLASS: DUPX_Validation_test_tokenizer]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Tokenizer" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.08072]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   1.85221]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00134]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.01344]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00225]  MESSAGE:TEST "Database Version" RESULT: soft warning
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00707]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00347]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00231]  MESSAGE:TEST "Privileges: User Visibility" RESULT: passed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WordPress Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00540]  MESSAGE:TEST "Multiple WordPress Installs" RESULT: passed
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+LOG-TIME[DELTA:   0.00571]  MESSAGE:TEST "Privileges: User Resources" RESULT: passed
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.22863]  MESSAGE:TEST "Privileges: User Table Access" RESULT: passed
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00096]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: passed
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Source Database Triggers" RESULT: passed
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00511]  MESSAGE:TEST "Character Set and Collation Support" RESULT: passed
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00017]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: passed
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: skip
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00156]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: passed
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00016]  MESSAGE:TEST "Prefix too long" RESULT: passed
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+
+CTRL PARAMS AFTER VALIDATION
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+INITIALIZE FILTERS
+--------------------------------------
+PATHS MAPPING : "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+--------------------------------------
+********************************************************************************
+* DUPLICATOR LITE: Install-Log
+* STEP-1 START @ 06:49:12
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+INSTALL TYPE________: single site
+BLOG NAME___________: "Sindicato dos Agentes de Vigilância Ambiental e Agentes Comunitários de Saúde"
+HOME URL NEW________: "http://localhost/sindivacs"
+SITE URL NEW________: "http://localhost/sindivacs"
+CONTENT URL NEW_____: "http://localhost/sindivacs/wp-content"
+UPLOAD URL NEW______: "http://localhost/sindivacs/wp-content/uploads"
+PLUGINS URL NEW_____: "http://localhost/sindivacs/wp-content/plugins"
+MUPLUGINS URL NEW___: "http://localhost/sindivacs/wp-content/mu-plugins"
+HOME PATH NEW_______: "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+SITE PATH NEW_______: "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+CONTENT PATH NEW____: "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs/wp-content"
+UPLOAD PATH NEW_____: "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs/wp-content/uploads"
+PLUGINS PATH NEW____: "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs/wp-content/plugins"
+MUPLUGINS PATH NEW__: "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs/wp-content/mu-plugins"
+ARCHIVE ACTION______: "donothing"
+SKIP WP FILES_______: "none"
+ARCHIVE ENGINE______: "manual"
+SET DIR PERMS_______: false
+DIR PERMS VALUE_____: 0755
+SET FILE PERMS______: false
+FILE PERMS VALUE____: 0644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+ZIP THROTTLING______: false
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+********************************************************************************
+
+REMOVE FILTERS
+	DIR : "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs/dup-installer"
+	FILE: "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs/20250203_sindicatodosagentesdevigila_[HASH]_20250224134859_installer-backup.php"
+	FILE: "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs/20250203_sindicatodosagentesdevigila_[HASH]_20250224134859_archive.zip"
+	FILE: "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs/installer.php"
+	FILE: "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs/dup-installer-bootlog__5deab47-24134859.txt"
+EXTRACTION FILTERS
+	DIR : "dup-installer"
+	FILE: "20250203_sindicatodosagentesdevigila_[HASH]_20250224134859_installer-backup.php"
+--------------------------------------
+
+
+EXTRACTION: MANUAL MODE >>> START
+MAINTENANCE MODE ENABLE
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING >>> START
+
+*** RESET CONFIG FILES IN CURRENT HOSTING >>> END
+MAINTENANCE MODE ENABLE
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+
+EXTRACTION: MANUAL MODE >>> DONE
+
+EXTRACTION COMPLETE @ 06:49:12 - RUNTIME: 6.7297 sec. - 
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+ADD PREFIX META MAP ID 0 wp_
+
+
+
+********************************************************************************
+* DUPLICATOR LITE: INSTALL-LOG
+* STEP-2 START @ 06:49:12
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+DB ENGINE___________: "chunk"
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+USER MODE___________: "overwrite"
+TABLE PREFIX________: "wp_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8mb4"
+COLLATE_____________: ""
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTIONS___________: true
+REMOVE DEFINER______: false
+SPLIT CREATES_______: true
+--------------------------------------
+TABLES
+--------------------------------------
+TABLE "wp_actionscheduler_actions"______________________[ROWS:      70] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_actions]
+TABLE "wp_actionscheduler_claims"_______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_claims]
+TABLE "wp_actionscheduler_groups"_______________________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_groups]
+TABLE "wp_actionscheduler_logs"_________________________[ROWS:     206] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_logs]
+TABLE "wp_aioseo_cache"_________________________________[ROWS:      55] [EXTRACT|REPLACE] [INST NAME: wp_aioseo_cache]
+TABLE "wp_aioseo_crawl_cleanup_blocked_args"____________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_aioseo_crawl_cleanup_blocked_args]
+TABLE "wp_aioseo_crawl_cleanup_logs"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_aioseo_crawl_cleanup_logs]
+TABLE "wp_aioseo_notifications"_________________________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: wp_aioseo_notifications]
+TABLE "wp_aioseo_posts"_________________________________[ROWS:    2673] [EXTRACT|REPLACE] [INST NAME: wp_aioseo_posts]
+TABLE "wp_aioseo_writing_assistant_keywords"____________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_aioseo_writing_assistant_keywords]
+TABLE "wp_aioseo_writing_assistant_posts"_______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_aioseo_writing_assistant_posts]
+TABLE "wp_commentmeta"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_commentmeta]
+TABLE "wp_comments"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_comments]
+TABLE "wp_ctf_feeds_posts"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_ctf_feeds_posts]
+TABLE "wp_ctf_posts"____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_ctf_posts]
+TABLE "wp_duplicator_packages"__________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_duplicator_packages]
+TABLE "wp_evf_entries"__________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_evf_entries]
+TABLE "wp_evf_entrymeta"________________________________[ROWS:       6] [EXTRACT|REPLACE] [INST NAME: wp_evf_entrymeta]
+TABLE "wp_evf_sessions"_________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_evf_sessions]
+TABLE "wp_e_events"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_e_events]
+TABLE "wp_links"________________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_links]
+TABLE "wp_options"______________________________________[ROWS:     467] [EXTRACT|REPLACE] [INST NAME: wp_options]
+TABLE "wp_postmeta"_____________________________________[ROWS:   11753] [EXTRACT|REPLACE] [INST NAME: wp_postmeta]
+TABLE "wp_posts"________________________________________[ROWS:    3066] [EXTRACT|REPLACE] [INST NAME: wp_posts]
+TABLE "wp_sbi_feeds"____________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_sbi_feeds]
+TABLE "wp_sbi_feed_caches"______________________________[ROWS:      10] [EXTRACT|REPLACE] [INST NAME: wp_sbi_feed_caches]
+TABLE "wp_sbi_instagram_feeds_posts"____________________[ROWS:      64] [EXTRACT|REPLACE] [INST NAME: wp_sbi_instagram_feeds_posts]
+TABLE "wp_sbi_instagram_feed_locator"___________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_sbi_instagram_feed_locator]
+TABLE "wp_sbi_instagram_posts"__________________________[ROWS:      64] [EXTRACT|REPLACE] [INST NAME: wp_sbi_instagram_posts]
+TABLE "wp_sbi_sources"__________________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wp_sbi_sources]
+TABLE "wp_sbr_feeds"____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_sbr_feeds]
+TABLE "wp_sbr_feed_caches"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_sbr_feed_caches]
+TABLE "wp_sbr_feed_locator"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_sbr_feed_locator]
+TABLE "wp_sbr_reviews_posts"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_sbr_reviews_posts]
+TABLE "wp_sbr_sources"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_sbr_sources]
+TABLE "wp_smart_smtp_mail_logs"_________________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wp_smart_smtp_mail_logs]
+TABLE "wp_ssd_feeds"____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_ssd_feeds]
+TABLE "wp_ssd_feed_posts"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_ssd_feed_posts]
+TABLE "wp_ssd_shortcodes"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_ssd_shortcodes]
+TABLE "wp_termmeta"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_termmeta]
+TABLE "wp_terms"________________________________________[ROWS:      31] [EXTRACT|REPLACE] [INST NAME: wp_terms]
+TABLE "wp_term_relationships"___________________________[ROWS:    1471] [EXTRACT|REPLACE] [INST NAME: wp_term_relationships]
+TABLE "wp_term_taxonomy"________________________________[ROWS:      31] [EXTRACT|REPLACE] [INST NAME: wp_term_taxonomy]
+TABLE "wp_usermeta"_____________________________________[ROWS:     102] [EXTRACT|REPLACE] [INST NAME: wp_usermeta]
+TABLE "wp_users"________________________________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wp_users]
+TABLE "wp_wpforms_logs"_________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_wpforms_logs]
+TABLE "wp_wpforms_payments"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wpforms_payments]
+TABLE "wp_wpforms_payment_meta"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wpforms_payment_meta]
+TABLE "wp_wpforms_tasks_meta"___________________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wp_wpforms_tasks_meta]
+TABLE "wp_wpm_6310_category"____________________________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: wp_wpm_6310_category]
+TABLE "wp_wpm_6310_icons"_______________________________[ROWS:      44] [EXTRACT|REPLACE] [INST NAME: wp_wpm_6310_icons]
+TABLE "wp_wpm_6310_member"______________________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wp_wpm_6310_member]
+TABLE "wp_wpm_6310_style"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wpm_6310_style]
+TABLE "wp_wpm_6310_template"____________________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wp_wpm_6310_template]
+TABLE "wp_yoast_indexable"______________________________[ROWS:     877] [EXTRACT|REPLACE] [INST NAME: wp_yoast_indexable]
+TABLE "wp_yoast_indexable_hierarchy"____________________[ROWS:     874] [EXTRACT|REPLACE] [INST NAME: wp_yoast_indexable_hierarchy]
+TABLE "wp_yoast_migrations"_____________________________[ROWS:      24] [EXTRACT|REPLACE] [INST NAME: wp_yoast_migrations]
+TABLE "wp_yoast_primary_term"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_yoast_primary_term]
+TABLE "wp_yoast_seo_links"______________________________[ROWS:     165] [EXTRACT|REPLACE] [INST NAME: wp_yoast_seo_links]
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.4.32 -- Build Server: 5.7.23
+FILE SIZE:	dup-database__[HASH].sql (21.79MB)
+TIMEOUT:	5000
+MAXPACK:	1048576
+SQLMODE-GLOBAL:	NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`root`@`localhost`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+FAILED QUERY LIMIT [QLEN:2991679|MAX:1048576]
+	[SQL=INSERT INTO `wp_options` VALUES (73958,'_transient__magazine_blocks_media_items','a:1825:{i:0;a:28:{s:2:\"ID\";i:3348;s:11:\"post_author\";s:1:\"1\";s:9:\"post_date\";s:19:\"2015-09-17 14:52:06\";s:13...]
+
+
+DB QUERY [ERROR][C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\classes\database\class.db.php:645] MSG: Got a packet bigger than 'max_allowed_packet' bytes
+	SQL: INSERT INTO `wp_options` VALUES (73958,'_transient__magazine_blocks_media_items','a:1825:{i:0;a:28:{s:2:\"ID\";i:3348;s:11:\"post_author\";s:1:\"1\";s:9:\"post_date\";s:19:\"2015-09-17 14:52:06\";s:13:\"post_date_gmt\";s:19:\"2015-09-17 17:52:06\";s:12:\"post_content\";s:0:\"\";s:10:\"post_title\";s:0:\"\";s:12:\"post_excerpt\";s:0:\"\";s:11:\"post_status\";s:7:\"inherit\";s:14:\"comment_status\";s:4:\"open\";s:11:\"ping_status\";s:4:\"open\";s:13:\"post_password\";s:0:\"\";s:9:\"post_name\";s:4
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[1074]
+TRACE[2] CLASS___: DUPX_DBInstall->writeQueryInDB FILE: C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[729]
+TRACE[3] CLASS___: DUPX_DBInstall->deployDatabaseChunkMode FILE: C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[270]
+TRACE[4] CLASS___: DUPX_DBInstall->insertDatabase FILE: C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[244]
+TRACE[5] CLASS___: DUPX_DBInstall->deploy     FILE: C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\ctrls\classes\class.ctrl.ajax.php[217]
+TRACE[6] CLASS___: DUPX_Ctrl_ajax::actions    FILE: C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\ctrls\classes\class.ctrl.ajax.php[95]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::controller FILE: C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\main.installer.php[60]
+
+
+INSTALLER ERROR:
+[PHP ERR][E_ERROR] MSG:Uncaught Error: mysqli object is already closed in C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\classes\database\class.db.php:310
+Stack trace:
+#0 C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\classes\database\class.db.php(310): mysqli_real_escape_string(Object(mysqli), 'sindivacs')
+#1 C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\classes\database\class.db.php(328): DUPX_DB::databaseExists(Object(mysqli), 'sindivacs')
+#2 C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\ctrls\classes\class.ctrl.dbinstall.php(453): DUPX_DB::selectDB(Object(mysqli), 'sindivacs')
+#3 C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\ctrls\classes\class.ctrl.dbinstall.php(508): DUPX_DBInstall->dbConnect(true)
+#4 C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\ctrls\classes\class.ctrl.dbinstall.php(1117): DUPX_DBInstall->pingAndReconnect()
+#5 C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\ctrls\classes\class.ctrl.dbinstall.php(729): DUPX_DBInstall->writeQueryInDB('INSERT INTO `wp...')
+#6 C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\ctrls\classes\class.ctrl.dbinstall.php(270): DUPX_DBInstall->deployDatabaseChunkMode()
+#7 C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\ctrls\classes\class.ctrl.dbinstall.php(244): DUPX_DBInstall->insertDatabase()
+#8 C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\ctrls\classes\class.ctrl.ajax.php(217): DUPX_DBInstall->deploy()
+#9 C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\ctrls\classes\class.ctrl.ajax.php(95): DUPX_Ctrl_ajax::actions('dbinstall')
+#10 C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\main.installer.php(60): DUPX_Ctrl_ajax::controller()
+#11 {main}
+  thrown [CODE:1|FILE:C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\classes\database\class.db.php|LINE:310]
+
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.4.32 -- Build Server: 5.7.23
+FILE SIZE:	dup-database__[HASH].sql (21.79MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE-GLOBAL:	NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+DROP TABLE wp_actionscheduler_actions
+DROP TABLE wp_actionscheduler_claims
+DROP TABLE wp_actionscheduler_groups
+DROP TABLE wp_actionscheduler_logs
+DROP TABLE wp_aioseo_cache
+DROP TABLE wp_aioseo_crawl_cleanup_blocked_args
+DROP TABLE wp_aioseo_crawl_cleanup_logs
+DROP TABLE wp_aioseo_notifications
+DROP TABLE wp_aioseo_posts
+DROP TABLE wp_aioseo_writing_assistant_keywords
+DROP TABLE wp_aioseo_writing_assistant_posts
+DROP TABLE wp_commentmeta
+DROP TABLE wp_comments
+DROP TABLE wp_ctf_feeds_posts
+DROP TABLE wp_ctf_posts
+DROP TABLE wp_duplicator_packages
+DROP TABLE wp_e_events
+DROP TABLE wp_evf_entries
+DROP TABLE wp_evf_entrymeta
+DROP TABLE wp_evf_sessions
+DROP TABLE wp_links
+DROP TABLE wp_options
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`root`@`localhost`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+ERRORS FOUND:	0
+DROPPED TABLES:	22
+RENAMED TABLES:	0
+QUERIES RAN:	548
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+TABLE "wp_actionscheduler_actions"______________________[ROWS:    70]
+TABLE "wp_actionscheduler_claims"_______________________[ROWS:     0]
+TABLE "wp_actionscheduler_groups"_______________________[ROWS:     4]
+TABLE "wp_actionscheduler_logs"_________________________[ROWS:   206]
+TABLE "wp_aioseo_cache"_________________________________[ROWS:    55]
+TABLE "wp_aioseo_crawl_cleanup_blocked_args"____________[ROWS:     0]
+TABLE "wp_aioseo_crawl_cleanup_logs"____________________[ROWS:     0]
+TABLE "wp_aioseo_notifications"_________________________[ROWS:     4]
+TABLE "wp_aioseo_posts"_________________________________[ROWS:  2673]
+TABLE "wp_aioseo_writing_assistant_keywords"____________[ROWS:     0]
+TABLE "wp_aioseo_writing_assistant_posts"_______________[ROWS:     0]
+TABLE "wp_commentmeta"__________________________________[ROWS:     0]
+TABLE "wp_comments"_____________________________________[ROWS:     0]
+TABLE "wp_ctf_feeds_posts"______________________________[ROWS:     0]
+TABLE "wp_ctf_posts"____________________________________[ROWS:     0]
+TABLE "wp_duplicator_packages"__________________________[ROWS:     1]
+TABLE "wp_e_events"_____________________________________[ROWS:     0]
+TABLE "wp_evf_entries"__________________________________[ROWS:     1]
+TABLE "wp_evf_entrymeta"________________________________[ROWS:     6]
+TABLE "wp_evf_sessions"_________________________________[ROWS:     0]
+TABLE "wp_links"________________________________________[ROWS:     0]
+TABLE "wp_options"______________________________________[ROWS:   467]
+TABLE "wp_postmeta"_____________________________________[ROWS: 11753]
+TABLE "wp_posts"________________________________________[ROWS:  3066]
+TABLE "wp_sbi_feed_caches"______________________________[ROWS:    10]
+TABLE "wp_sbi_feeds"____________________________________[ROWS:     1]
+TABLE "wp_sbi_instagram_feed_locator"___________________[ROWS:     0]
+TABLE "wp_sbi_instagram_feeds_posts"____________________[ROWS:    64]
+TABLE "wp_sbi_instagram_posts"__________________________[ROWS:    64]
+TABLE "wp_sbi_sources"__________________________________[ROWS:     2]
+TABLE "wp_sbr_feed_caches"______________________________[ROWS:     0]
+TABLE "wp_sbr_feed_locator"_____________________________[ROWS:     0]
+TABLE "wp_sbr_feeds"____________________________________[ROWS:     0]
+TABLE "wp_sbr_reviews_posts"____________________________[ROWS:     0]
+TABLE "wp_sbr_sources"__________________________________[ROWS:     0]
+TABLE "wp_smart_smtp_mail_logs"_________________________[ROWS:     3]
+TABLE "wp_ssd_feed_posts"_______________________________[ROWS:     0]
+TABLE "wp_ssd_feeds"____________________________________[ROWS:     0]
+TABLE "wp_ssd_shortcodes"_______________________________[ROWS:     0]
+TABLE "wp_term_relationships"___________________________[ROWS:  1471]
+TABLE "wp_term_taxonomy"________________________________[ROWS:    31]
+TABLE "wp_termmeta"_____________________________________[ROWS:     0]
+TABLE "wp_terms"________________________________________[ROWS:    31]
+TABLE "wp_usermeta"_____________________________________[ROWS:   102]
+TABLE "wp_users"________________________________________[ROWS:     3]
+TABLE "wp_wpforms_logs"_________________________________[ROWS:     1]
+TABLE "wp_wpforms_payment_meta"_________________________[ROWS:     0]
+TABLE "wp_wpforms_payments"_____________________________[ROWS:     0]
+TABLE "wp_wpforms_tasks_meta"___________________________[ROWS:     5]
+TABLE "wp_wpm_6310_category"____________________________[ROWS:     4]
+TABLE "wp_wpm_6310_icons"_______________________________[ROWS:    44]
+TABLE "wp_wpm_6310_member"______________________________[ROWS:     5]
+TABLE "wp_wpm_6310_style"_______________________________[ROWS:     0]
+TABLE "wp_wpm_6310_template"____________________________[ROWS:     3]
+TABLE "wp_yoast_indexable"______________________________[ROWS:   877]
+TABLE "wp_yoast_indexable_hierarchy"____________________[ROWS:   874]
+TABLE "wp_yoast_migrations"_____________________________[ROWS:    24]
+TABLE "wp_yoast_primary_term"___________________________[ROWS:     0]
+TABLE "wp_yoast_seo_links"______________________________[ROWS:   165]
+
+INSERT DATA RUNTIME: 18.1594 sec.
+STEP-2 COMPLETE @ 06:49:30 - RUNTIME: 18.1597 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+====================================
+SET SEARCH AND REPLACE LIST INSTALL TYPE single site
+====================================
+SEARCH ITEM[T:path |P:12] SEARCH: /home3/sindiv53/public_html REPLACE: C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs [SCOPE: ALL]
+SEARCH ITEM[T:urlnd|P:12] SEARCH: https://sindivacs.com.br REPLACE: http://localhost/sindivacs [SCOPE: ALL]
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [start][][]
+
+
+********************************************************************************
+DUPLICATOR LITE: INSTALL-LOG
+STEP-3 START @ 06:49:31
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8mb4"
+CHARSET CLIENT:	"utf8mb4"
+********************************************************************************
+OPTIONS:
+SKIP PATH REPLACE_____: false
+DISALLOW_FILE_EDIT____: [value = ], [inWpConfig = ]
+DISALLOW_FILE_MODS____: [value = ], [inWpConfig = ]
+AUTOSAVE_INTERVAL_____: [value = 60], [inWpConfig = ]
+WP_POST_REVISIONS_____: [value = 1], [inWpConfig = ]
+FORCE_SSL_ADMIN_______: [value = 1], [inWpConfig = ]
+WP_AUTO_UPDATE_CORE___: [value = false], [inWpConfig = ]
+WP_CACHE______________: [value = ], [inWpConfig = ]
+WPCACHEHOME___________: [value = /], [inWpConfig = ]
+WP_DEBUG______________: [value = ], [inWpConfig = 1]
+WP_DEBUG_LOG__________: [value = ], [inWpConfig = ]
+WP_DEBUG_DISPLAY______: [value = 1], [inWpConfig = ]
+WP_DISABLE_FATAL_ERROR_HANDLER: [value = ], [inWpConfig = ]
+SCRIPT_DEBUG__________: [value = ], [inWpConfig = ]
+CONCATENATE_SCRIPTS___: [value = ], [inWpConfig = ]
+SAVEQUERIES___________: [value = ], [inWpConfig = ]
+ALTERNATE_WP_CRON_____: [value = ], [inWpConfig = ]
+DISABLE_WP_CRON_______: [value = ], [inWpConfig = ]
+WP_CRON_LOCK_TIMEOUT__: [value = 60], [inWpConfig = ]
+COOKIE_DOMAIN_________: [value = ], [inWpConfig = ]
+WP_MEMORY_LIMIT_______: [value = 40M], [inWpConfig = ]
+WP_MAX_MEMORY_LIMIT___: [value = 512M], [inWpConfig = ]
+WP_TEMP_DIR___________: [value = ], [inWpConfig = ]
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 0
+timeOut_______________: 5000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+CHUNK ACTION: CURRENT [cleanup_trans][][]
+[PHP ERR][E_WARNING] MSG:foreach() argument must be of type array|object, string given [CODE:2|FILE:C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\src\Core\Deploy\Database\DbCleanup.php|LINE:95]
+CLEAN OPTIONS [wp_options]
+	`option_name` = "duplicator_plugin_data_stats"
+	`option_name` LIKE "\_transient%"
+	`option_name` LIKE "\_site\_transient%"
+DATABASE OPTIONS DELETED [ROWS:    58]
+CHUNK ACTION: CURRENT [cleanup_extra][][]
+CLEANUP EXTRA
+	- SKIP DROP VIEWS
+	- SKIP DROP PROCS
+	- SKIP DROP FUNCS
+CHUNK ACTION: CURRENT [cleanup_packages][][]
+EMPTY PACKAGES TABLE
+CLEAN PACKAGES
+DATABASE PACKAGE DELETED [ROWS:     1]
+CHUNK ACTION: CURRENT [init][][]
+
+EVALUATE TABLE: "wp_actionscheduler_actions"______________________[ROWS:    70][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_actions][0]
+
+EVALUATE TABLE: "wp_actionscheduler_claims"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_actionscheduler_groups"_______________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_groups][0]
+
+EVALUATE TABLE: "wp_actionscheduler_logs"_________________________[ROWS:   206][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_logs][0]
+
+EVALUATE TABLE: "wp_aioseo_cache"_________________________________[ROWS:    55][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_aioseo_cache][0]
+
+EVALUATE TABLE: "wp_aioseo_crawl_cleanup_blocked_args"____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_aioseo_crawl_cleanup_logs"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_aioseo_notifications"_________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_aioseo_notifications][0]
+
+EVALUATE TABLE: "wp_aioseo_posts"_________________________________[ROWS:  2673][PG:   3][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_aioseo_posts][0]
+	
+STEP-3 CHUNK STOP @ 06:49:37 - RUNTIME: 6.9960 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wp_aioseo_posts][1]
+
+STEP-3 CHUNK STOP @ 06:49:45 - RUNTIME: 7.3410 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wp_aioseo_posts][2]
+
+EVALUATE TABLE: "wp_aioseo_writing_assistant_keywords"____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_aioseo_writing_assistant_posts"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_ctf_feeds_posts"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_ctf_posts"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_evf_entries"__________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_evf_entries][0]
+
+EVALUATE TABLE: "wp_evf_entrymeta"________________________________[ROWS:     6][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_evf_entrymeta][0]
+
+EVALUATE TABLE: "wp_evf_sessions"_________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_e_events"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   409][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_options][0]
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS: 11753][PG:  12][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][1]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][2]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][3]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][4]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][5]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][6]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][7]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][8]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][9]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][10]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][11]
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:  3066][PG:   4][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_posts][0]
+	
+STEP-3 CHUNK STOP @ 06:49:58 - RUNTIME: 12.4804 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wp_posts][1]
+
+STEP-3 CHUNK STOP @ 06:50:07 - RUNTIME: 8.5590 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wp_posts][2]
+
+STEP-3 CHUNK STOP @ 06:50:17 - RUNTIME: 10.6007 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wp_posts][3]
+
+EVALUATE TABLE: "wp_sbi_feeds"____________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_sbi_feeds][0]
+
+EVALUATE TABLE: "wp_sbi_feed_caches"______________________________[ROWS:    10][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_sbi_feed_caches][0]
+
+EVALUATE TABLE: "wp_sbi_instagram_feeds_posts"____________________[ROWS:    64][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_sbi_instagram_feeds_posts][0]
+
+EVALUATE TABLE: "wp_sbi_instagram_feed_locator"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_sbi_instagram_posts"__________________________[ROWS:    64][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_sbi_instagram_posts][0]
+
+EVALUATE TABLE: "wp_sbi_sources"__________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_sbi_sources][0]
+
+EVALUATE TABLE: "wp_sbr_feeds"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_sbr_feed_caches"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_sbr_feed_locator"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_sbr_reviews_posts"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_sbr_sources"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_smart_smtp_mail_logs"_________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_smart_smtp_mail_logs][0]
+
+EVALUATE TABLE: "wp_ssd_feeds"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_ssd_feed_posts"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_ssd_shortcodes"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:    31][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_terms][0]
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:  1471][PG:   2][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:    31][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_term_taxonomy][0]
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:   102][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_usermeta][0]
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_users][0]
+
+EVALUATE TABLE: "wp_wpforms_logs"_________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_wpforms_logs][0]
+
+EVALUATE TABLE: "wp_wpforms_payments"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wpforms_payment_meta"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wpforms_tasks_meta"___________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_wpforms_tasks_meta][0]
+
+EVALUATE TABLE: "wp_wpm_6310_category"____________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_wpm_6310_category][0]
+
+EVALUATE TABLE: "wp_wpm_6310_icons"_______________________________[ROWS:    44][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_wpm_6310_icons][0]
+
+EVALUATE TABLE: "wp_wpm_6310_member"______________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_wpm_6310_member][0]
+
+EVALUATE TABLE: "wp_wpm_6310_style"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wpm_6310_template"____________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_wpm_6310_template][0]
+
+EVALUATE TABLE: "wp_yoast_indexable"______________________________[ROWS:   877][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_indexable][0]
+	
+STEP-3 CHUNK STOP @ 06:50:26 - RUNTIME: 8.1270 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+EVALUATE TABLE: "wp_yoast_indexable_hierarchy"____________________[ROWS:   874][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_yoast_migrations"_____________________________[ROWS:    24][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_migrations][0]
+
+EVALUATE TABLE: "wp_yoast_primary_term"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_yoast_seo_links"______________________________[ROWS:   165][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home3/sindiv53/public_html" =====================> "C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs"
+	SEARCH[urlnd]  2:"https://sindivacs.com.br" ========================> "http://localhost/sindivacs"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_seo_links][0]
+--------------------------------------
+SCANNED:	Tables:59 	|	 Rows:19686 	|	 Cells:327512 
+UPDATED:	Tables:11 	|	 Rows:6272 	|	 Cells:8810 
+ERRORS:		0 
+RUNTIME:	55.576100 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+MAINTENANCE MODE DISABLE
+CHUNK ACTION: CURRENT [config_update][][]
+SET CONFIG FILES
+Retained original entry wpconfig target:C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs/wp-config.php
+New htaccess file created:C:/Users/elbes.souza/Documents/Projetos/xampp/htdocs/sindivacs/.htaccess
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE ABSPATH "dirname(__FILE__) . '/'"
+	UPDATE DB_NAME ""sindivacs""
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	UPDATE DB_CHARSET "utf8mb4"
+	UPDATE DB_COLLATE ""
+	WP CONFIG UPDATE WP_DEBUG "false"
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+HTACCESS FILE - Successfully updated the .htaccess file setting.
+
+====================================
+INDEX.PHP UPDATE
+====================================
+INDEX.PHP updated with new blog header "dirname(__FILE__) . '/wp-blog-header.php'"
+
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+
+====================================
+MANAGE PLUGINS
+====================================
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+RESET ALL USERS SESSION TOKENS
+MIGRATION INFO SET
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+RESET USERS PASSWORD
+====================================
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+CHECK FOR INDEX.HTML
+====================================
+NO INDEX.HTML WAS FOUND
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [set_files_perms][][]
+
+====================================
+SET PARAMS PERMISSION
+====================================
+\n SKIP FOLDER PERMISSION AFTER EXTRACTION
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 06:50:27 - RUNTIME: 0.5696 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [finalafter] START
+AJAX ACTION [finalafter] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+====================================
+LOG-TIME[C:\Users\elbes.souza\Documents\Projetos\xampp\htdocs\sindivacs\dup-installer\ctrls\ctrl.base.php:227][DELTA:   0.74609]  MESSAGE:END RENDER PAGE
